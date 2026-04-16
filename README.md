@@ -1,4 +1,4 @@
-\# Cybersecurity Portfolio 
+\# Cybersecurity Portfolio
 
 
 
@@ -24,9 +24,9 @@ Aspiring pentester / red team operator
 
 \## Projects
 
-* OverTheWire Bandit (Linux Fundamentals)
-* Web security notes (PortSwigger)
-* Hack The Box writeups
+* OverTheWire Bandit (Linux Fundamentals) -> [https://github.com/nyxflux/bandit-writeups](https://github.com/nyxflux/bandit-writeups)
+* Web security notes (PortSwigger) -> [https://github.com/nyxflux/web-security-notes](https://github.com/nyxflux/web-security-notes)
+* Hack The Box writeups -> [https://github.com/nyxflux/HTB-writeups](https://github.com/nyxflux/HTB-writeups)
 
 
 
