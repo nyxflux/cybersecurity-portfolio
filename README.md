@@ -6,9 +6,7 @@
 
 \## Goal
 
-Aspiring pentester / red team operator
-
-
+Focused on understanding how attacks actually work by breaking down each step, not just solving labs.
 
 
 
@@ -16,7 +14,7 @@ Aspiring pentester / red team operator
 
 * Web vulnerabilities (PortSwigger)
 * Bug bounty practice (HackerOne)
-* Pentesting labs (Hack the Box)
+* Hack The Box (system exploitation with a focus on analyzing each step and attack path)
 
 
 
@@ -34,5 +32,5 @@ Aspiring pentester / red team operator
 
 \## Roadmap
 
-* Web vulnerabilities -> bug bounty -> pentesting (HTB) -> red team (AD)
+* Web vulnerabilities → system exploitation → deeper analysis of attack paths and behaviors
 
