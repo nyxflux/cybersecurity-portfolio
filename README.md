@@ -2,35 +2,73 @@
 
 
 
-
-
 \## Goal
 
-Focused on understanding how attacks actually work by breaking down each step, not just solving labs.
+I am building skills in cybersecurity with a focus on DFIR and Threat Hunting.
 
 
 
-\## Current focus
+The goal is to develop skills in:
 
-* Web vulnerabilities (PortSwigger)
-* Bug bounty practice (HackerOne)
-* Hack The Box (system exploitation with a focus on analyzing each step and attack path)
+\- DFIR (Digital Forensics \& Incident Response)
 
-
-
-
-
-\## Projects
-
-* OverTheWire Bandit (Linux Fundamentals) -> [https://github.com/nyxflux/bandit-writeups](https://github.com/nyxflux/bandit-writeups)
-* Web security notes (PortSwigger) -> [https://github.com/nyxflux/web-security-notes](https://github.com/nyxflux/web-security-notes)
-* Hack The Box writeups -> [https://github.com/nyxflux/HTB-writeups](https://github.com/nyxflux/HTB-writeups)
+\- Threat Hunting (behavior-based detection of suspicious activity)
 
 
 
 
 
-\## Roadmap
 
-* Web vulnerabilities → system exploitation → deeper analysis of attack paths and behaviors
+
+\## Current Focus
+
+\- Analysis and detection of suspicious activity (SSH brute force, network scanning, authentication anomalies)
+
+\- Linux log investigation (auth.log, system logs)
+
+\- Network traffic analysis with Wireshark
+
+\- Attack timeline reconstruction
+
+
+
+
+
+
+
+\## Projects 
+
+\- DFIR Labs -> [https://github.com/nyxflux/DFIR-Labs](https://github.com/nyxflux/DFIR-Labs)
+
+\- OverTheWire Bandit (21 levels completed) -> [https://github.com/nyxflux/bandit-writeups](https://github.com/nyxflux/bandit-writeups)
+
+\- Web Vulnerabilities Notes -> [https://github.com/nyxflux/web-security-notes](https://github.com/nyxflux/web-security-notes)
+
+
+
+
+
+
+
+\## Learning Direction
+
+\- DFIR investigation techniques
+
+\- Threat detection patterns
+
+\- Behavioral analysis of attackers
+
+
+
+
+
+
+
+\## Tools
+
+\- Kali Linux
+
+\- Wireshark
+
+\- Linux command-line tools
 
